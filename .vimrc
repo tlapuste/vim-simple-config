@@ -156,8 +156,8 @@ set numberwidth=5
 " Zenburn
 set t_Co=256
 set background=dark
-colorscheme tomorrow-night-eighties
-" colorscheme zenburn
+" colorscheme tomorrow-night-eighties
+colorscheme zenburn
 
 "Solarized
 "let g:solarized_termcolors=256
